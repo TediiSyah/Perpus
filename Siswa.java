@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.latihanukl_perpus;
 import java.util.ArrayList;
 /**
@@ -10,12 +6,7 @@ import java.util.ArrayList;
  */
 public class Siswa {
 
-
-/**
- *
- * @author pandu
- */
-    private ArrayList<String> namaSiswa = new ArrayList<String>();
+private ArrayList<String> namaSiswa = new ArrayList<String>();
     private ArrayList<String> alamat = new ArrayList<String>();
     private ArrayList<String> telepon = new ArrayList<String>();
     private ArrayList<Boolean> status = new ArrayList<Boolean>();
