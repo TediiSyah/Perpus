@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.latihanukl_perpus;
 import java.util.Scanner;
 /**
@@ -10,12 +6,7 @@ import java.util.Scanner;
  */
 public class Laporan {
 
-/**
- *
- * @author pandu
- */
-
-    Scanner input = new Scanner(System.in);
+Scanner input = new Scanner(System.in);
     private int pilih;
     
     public void laporan(Buku buku) {
